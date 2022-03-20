@@ -1,3 +1,48 @@
-.App {
-  background: #f7e0df;
+.nav-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  padding: 0 20px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background-image: linear-gradient(to right, #decba4, #3e5151);
+}
+
+.container {
+  height: auto;
+}
+
+.nav-options {
+  display: flex;
+  flex-direction: row;
+  width: 20%;
+  justify-content: space-around;
+}
+.nav-options button {
+  background: rgb(112, 98, 98);
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: 0.4s;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.nav-options button:hover {
+  background-color: white;
+  color: #5d6063;
+}
+
+.home-right {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.sections {
+  display: flex;
+  flex-direction: column;
 }

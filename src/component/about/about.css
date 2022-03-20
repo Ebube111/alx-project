@@ -1,0 +1,45 @@
+.about-container {
+  background-color: white;
+  height: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.about-image img {
+  width: 90%;
+  height: 900px;
+}
+
+.about-image {
+  width: 50%;
+}
+.about-text {
+  width: 50%;
+}
+.about-text h1 {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(to right, #decba4, #3e5151);
+  letter-spacing: 0.03em;
+  font-weight: bold;
+  font-size: 72px;
+  margin: 0 0 60px 0;
+}
+
+.about-span {
+  margin-bottom: 40px;
+  width: 70%;
+}
+.about-span span {
+  color: #3e5151;
+  font-size: 30px;
+}
+
+.list li {
+  width: 80%;
+  list-style-type: square;
+  list-style-image: linear-gradient(#decba4, #3e5151);
+  margin: 20px;
+  color: #3e5151;
+  font-size: 25px;
+}
