@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/alx-project/static/css/main.f1e74b38.css",
+    "main.js": "/alx-project/static/js/main.544fed5d.js",
+    "static/js/787.ec704a7a.chunk.js": "/alx-project/static/js/787.ec704a7a.chunk.js",
+    "static/media/nft.gif": "/alx-project/static/media/nft.c26da91191cb8431ba0c.gif",
+    "static/media/eth.gif": "/alx-project/static/media/eth.b0834f8a40c7c1eecc9b.gif",
+    "static/media/pirate.gif": "/alx-project/static/media/pirate.7fc8c9b34566ba10e2ab.gif",
+    "static/media/opensea.png": "/alx-project/static/media/opensea.2ab41775cb27fa6ca385.png",
+    "static/media/nftt.gif": "/alx-project/static/media/nftt.9b09a81acdc02547e44f.gif",
+    "static/media/hero.gif": "/alx-project/static/media/hero.77eece8c9628f660f3b8.gif",
+    "static/media/defi.gif": "/alx-project/static/media/defi.7a01cfad684096d7209d.gif",
+    "static/media/solidity.gif": "/alx-project/static/media/solidity.ba97fec0abd4edc65367.gif",
+    "static/media/slick.svg": "/alx-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/alx-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/alx-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/alx-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/alx-project/index.html",
+    "static/media/arrow-righ-circle.svg": "/alx-project/static/media/arrow-righ-circle.ea99965c88f39e16eab668764ed8bcf2.svg",
+    "main.f1e74b38.css.map": "/alx-project/static/css/main.f1e74b38.css.map",
+    "main.544fed5d.js.map": "/alx-project/static/js/main.544fed5d.js.map",
+    "787.ec704a7a.chunk.js.map": "/alx-project/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e74b38.css",
+    "static/js/main.544fed5d.js"
+  ]
+}
