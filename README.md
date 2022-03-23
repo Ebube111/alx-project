@@ -1,8 +1,25 @@
-# Getting Started with Create React App
+# N-Learn Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+N-learn short for NFT-Learn an Alx Project built by Ebube Agwaze that tries to answer questions in web3 and blockchain that developers have
 
-## Available Scripts
+
+
+## Personal Links and Project Site
+Visit the live site: [deployment](https://ebube111.github.io/alx-project/) for more information.
+My linkedin profile: [LinkedinProfile](https://www.linkedin.com/in/ebube-agwaze-375a771b8/)
+Blog post: [blog](https://medium.com/@ebubeagwaze/the-n-learn-project-818b5d79100e)
+
+### What is NFT
+A non-fungible token (NFT) is a digital asset that is verifiable on blockchain technology. Assets include artwork, music, or in-game assets such as unique avatars. Because they are unique, NFTs are becoming sought after as collectibles.
+![An NFT](https://user-images.githubusercontent.com/46991166/159647352-32fa2f46-a9d9-4c6c-8de1-32aa3c931312.png)
+
+
+
+
+## Installation
+
+firstly to install the packagees
+### `npm install`
 
 In the project directory, you can run:
 
@@ -14,57 +31,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### Usage
+This App is meant to be a helpful resource to those that are looking to learn more about NFTs and blockhain, each slider in the learn page contains rich contents to help you to useful resources:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Learn Page](https://user-images.githubusercontent.com/46991166/159645999-f220efeb-1c9d-4b0d-8cb6-e095dfac21d9.png)
 
-### `npm run build`
+Each Card contains a useful and different resource
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
