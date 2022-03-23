@@ -9,6 +9,7 @@ function App() {
   const aboutScroll = useRef(null);
   const learnScroll = useRef(null);
   const footerScroll = useRef(null);
+
   const onaboutClick = () =>
     aboutScroll.current.scrollIntoView({ behavior: "smooth" });
 

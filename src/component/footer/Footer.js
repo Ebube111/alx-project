@@ -5,8 +5,8 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <div style={{ textAlign: "center" }}>
-        <a target="_blank" href="https://github.com/Ebube111">
-          Ebube Git Profile
+        <a target="_blank" href="https://twitter.com/Busko_57">
+          Twitter Profile
         </a>
         <div style={{ height: 10 }}></div>
         <a
@@ -15,10 +15,14 @@ const Footer = () => {
         >
           Linkedin Profile
         </a>
+        <div style={{ height: 10 }}></div>
+        <a target="_blank" href="https://github.com/Ebube111/alx-project">
+          Project Repo
+        </a>
       </div>
       <div className="footer">
-        <span>An Alx Project built by Ebube Agwaze</span>
-        <span> &copy; I DO NOT OWN ANY OF THE IMAGES OR NFTS ON THIS SITE</span>
+        <span> &copy; A Project by Ebube Agwaze</span>
+        <span> I DO NOT OWN ANY OF THE IMAGES OR NFTS ON THIS SITE</span>
       </div>
     </div>
   );
