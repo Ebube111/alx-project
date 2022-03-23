@@ -49,6 +49,7 @@ const data = [
 const Learn = () => {
   const [sliderRef, setSliderRef] = useState(null);
   const [currentIndex, setCurrentIndex] = useState(0);
+  /** HANDLING SLIDERS RESPONSIVENESS AND AUTOPLAY MODE */
   const conditions = {
     arrows: false,
     dots: false,
@@ -82,6 +83,7 @@ const Learn = () => {
         <h1>Learning /Resources</h1>
       </div>
       <div className="slide-container">
+        {/** USING THE SLIDER TO RENDER EACH SLIDE */}
         <Slider ref={setSliderRef} {...conditions}>
           {data.map(({ image, title, subtitle, href }) => (
             <Card image={image} title={title} subtitle={subtitle} href={href} />

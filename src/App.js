@@ -10,9 +10,9 @@ function App() {
   const learnScroll = useRef(null);
   const footerScroll = useRef(null);
 
+  /** HANDLING SMOOTH SCROLLING BETWEEN PAGES */
   const onaboutClick = () =>
     aboutScroll.current.scrollIntoView({ behavior: "smooth" });
-
   const onLearnClick = () =>
     learnScroll.current.scrollIntoView({ behavior: "smooth" });
   const onFooterClick = () =>
@@ -24,12 +24,14 @@ function App() {
         <div className="nav-logo">
           <h1>N-Learn</h1>
         </div>
+        {/** NAVIGATION ROUTES  */}
         <div className="nav-options">
           <button onClick={onaboutClick}>About</button>
           <button onClick={onLearnClick}>Learn</button>
           <button onClick={onFooterClick}>Contact Info</button>
         </div>
       </div>
+      {/** APPLICATION PAGES */}
       <div className="sections">
         <Home about={onaboutClick} learn={onLearnClick} />
         <div ref={aboutScroll}>

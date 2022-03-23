@@ -10,6 +10,7 @@ const Home = ({ learn, about }) => {
     <div>
       <div className="home-container">
         <div className="home-left-grid">
+          {/** DISPLAYING DIFFERENT NFT GIFS */}
           <div className="home-left">
             <img className="home-image" src={nft} alt="" />
             <img className="home-image" src={nftt} alt="" />

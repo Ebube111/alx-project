@@ -5,6 +5,7 @@ import pirate from "../../images/pirate.gif";
 const About = () => {
   return (
     <div id="about" className="about-container">
+      {/** ABOUT SECTION PAGE */}
       <div className="about-image">
         <img src={pirate} alt="" />
       </div>
